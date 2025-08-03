@@ -18,7 +18,7 @@ I thrive at the intersection of software, systems thinking, and user-centric des
 
 ## 🔗 Social Links
 
-- [LinkedIn]((https://www.linkedin.com/in/cheesmansam/))  
+- [LinkedIn](https://www.linkedin.com/in/cheesmansam/)
 - [GitHub](https://github.com/cheesam)
 
 ---
