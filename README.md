@@ -26,7 +26,7 @@ I thrive at the intersection of software, systems thinking, and user-centric des
 ## 🎸 Fun Facts
 
 - Organiser of [Wutopia](https://wutopia.com), a boutique music and arts festival
-- Passionate about endurance sports — currently training for triathlons 🏊‍♂️🚴‍♂️🏃‍♂️
+- Passionate about sports — currently learning to play tennis 🎾
 - Learning French 🇫🇷 and working toward building my own SaaS business
 
 ---
