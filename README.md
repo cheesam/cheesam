@@ -12,7 +12,7 @@ I thrive at the intersection of software, systems thinking, and user-centric des
 - **Slack + Spotify Dynamic Playlists**  
   A side project integrating Slack & Spotify to create dynamic playlists from channel activity
 - **Wutopia Festival Tech/Ops**  
-  End-to-end event planning and logistics for [Wutopia](https://wutopiafestival.com) with a digital backbone
+  End-to-end event planning and logistics for [Wutopia](https://wutopia.com) with a digital backbone
 
 ---
 
