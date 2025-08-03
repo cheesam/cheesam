@@ -27,7 +27,7 @@ I thrive at the intersection of software, systems thinking, and user-centric des
 
 - Organiser of [Wutopia](https://www.wutopia.co.uk/), a boutique music and arts festival
 - Passionate about sports — currently learning to play tennis 🎾
-- Learning French 🇫🇷 and working toward building my own SaaS business
+- Learning French 🇫🇷 and working toward building my own business
 
 ---
 
