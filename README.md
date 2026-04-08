@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**cheesam/cheesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with a fintech background, specialising in C# and .NET. I've spent the last few years at Moneybox progressing from junior to senior, working on regulatory reporting infrastructure, idempotent transaction systems, and observability tooling in production environments.
 
-Here are some ideas to get you started:
+I care about writing clean, maintainable code and building systems that are reliable under pressure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:** C#, .NET, Blazor, Razor Pages, LINQ  
+**Cloud & Messaging:** Azure (Service Bus, DevOps), MassTransit  
+**Data:** SQL Server, T-SQL, Entity Framework  
+**Observability:** Datadog (APM, custom trace enrichment, alerting)  
+**Testing & APIs:** xUnit, RESTful APIs, Swagger  
+
+---
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/cheesmansam/)
+- [GitHub (personal)](https://github.com/cheesam)
+- [GitHub (professional)](https://github.com/cheesmaneybox)
+
+---
+
+## 🎸 Outside of Work
+
+- Organiser of [Wutopia](https://www.wutopia.co.uk/), a boutique music and arts festival
+- Learning French and tennis
+
+---
+
+*Always happy to chat about fintech, systems, or building things that actually work in production.*
